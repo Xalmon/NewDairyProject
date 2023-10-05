@@ -1,6 +1,7 @@
-package data.repository;
+package data.repositories;
 
 import data.model.Entry;
+import data.repository.EntryRepositoryImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
